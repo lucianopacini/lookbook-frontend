@@ -7,7 +7,7 @@ function App() {
   const [risposta, setRisposta] = useState(null);
 
   const handleSubmit = async () => {
-    const res = await fetch("http://localhost:3000/valuta", {
+    const res = await fetch("https://lookbook-backend-uxi1.onrender.com/valuta", {
       method: "POST",
       headers: {
         "Content-Type": "application/json",
