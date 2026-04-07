@@ -1,5 +1,7 @@
 # 🎨 LookBook AI – Frontend
 
+[![Frontend Live](https://img.shields.io/badge/frontend-live-brightgreen)](https://lookbook-frontend.vercel.app/)
+
 Frontend dell’applicazione **LookBook AI**, che permette agli utenti di inserire i dati di un capo di abbigliamento e ottenere una valutazione tramite intelligenza artificiale.
 
 ---
