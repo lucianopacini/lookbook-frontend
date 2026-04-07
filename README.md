@@ -33,8 +33,10 @@ Frontend dell’applicazione **LookBook AI**, che permette agli utenti di inseri
 ---
 
 ## 🔗 Collegamento al backend
-Il frontend comunica con il backend deployato su Render tramite chiamate API.
+Il frontend comunica con il backend deployato su Render tramite chiamate API:  
+[Backend Live su Render](https://lookbook-backend-uxi1.onrender.com/)  
 
+📂 Il codice del backend è disponibile qui: [GitHub Backend](https://github.com/tuo-username/lookbook-backend)
 ---
 
 ## 📸 Preview
