@@ -35,6 +35,10 @@ Il frontend comunica con il backend deployato su Render tramite chiamate API.
 
 ---
 
+## 📸 Preview
+![LookBook AI Screenshot](./screenshot-lookbook.png)
+
+---
 ## 🌐 Demo live
 👉 https://lookbook-frontend.vercel.app/
 
